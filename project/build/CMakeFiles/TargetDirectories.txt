@@ -1,0 +1,5 @@
+/mnt/c/users/filip/desktop/feup/prog/projeto/project/build/CMakeFiles/runscrim.dir
+/mnt/c/users/filip/desktop/feup/prog/projeto/project/build/CMakeFiles/tester.dir
+/mnt/c/users/filip/desktop/feup/prog/projeto/project/build/CMakeFiles/delivery.dir
+/mnt/c/users/filip/desktop/feup/prog/projeto/project/build/CMakeFiles/edit_cache.dir
+/mnt/c/users/filip/desktop/feup/prog/projeto/project/build/CMakeFiles/rebuild_cache.dir
