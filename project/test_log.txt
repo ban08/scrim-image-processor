@@ -46,21 +46,21 @@ Applying command 'Open filename:input/squares.png'
 Applying command 'Open filename:input/unionjack.png'
 Applying command 'Save filename:output/basic_open2.png'
 >>> [11] chain1 <<<
-Command not recognized: 'chain'
-Error while parsing command
-Scrim parse failed
+Applying command 'Blank w:400 h:400 fill:255:0:0'
+Applying command 'chain scrims/more-scrims/start1.scrim end'
+Applying command 'Save filename:output/chain1.png'
 >>> [12] chain2 <<<
-Command not recognized: 'chain'
-Error while parsing command
-Scrim parse failed
+Applying command 'Blank w:800 h:800 fill:255:0:0'
+Applying command 'chain scrims/more-scrims/start1.scrim scrims/more-scrims/end2.scrim end'
+Applying command 'Save filename:output/chain2.png'
 >>> [13] chain3 <<<
-Command not recognized: 'chain'
-Error while parsing command
-Scrim parse failed
+Applying command 'Blank w:400 h:400 fill:0:255:0'
+Applying command 'chain scrims/more-scrims/start1.scrim scrims/more-scrims/end3.scrim end'
+Applying command 'Save filename:output/chain3.png'
 >>> [14] chain4 <<<
-Command not recognized: 'chain'
-Error while parsing command
-Scrim parse failed
+Applying command 'Blank w:800 h:800 fill:255:0:0'
+Applying command 'chain scrims/more-scrims/start1.scrim scrims/more-scrims/loop.scrim scrims/more-scrims/end2.scrim end'
+Applying command 'Save filename:output/chain4.png'
 >>> [15] crop1 <<<
 Applying command 'Open filename:input/pacman-game.png'
 Applying command 'crop'

@@ -20,6 +20,7 @@
 #include "Command/RotateLeft.hpp"
 #include "Command/RotateRight.hpp"
 #include "Command/ScaleUp.hpp"
+#include "Command/Chain.hpp"
 #include "Logger.hpp"
 
 #include <fstream>
@@ -170,7 +171,15 @@ namespace prog {
         return new command::ScaleUp(x, y);
         }
 
-
+        if (command_name == "chain") {
+            std::vector<std::string> files;
+            std::string fname;
+            // vai lendo nomes até encontrar 'end'
+            while (input >> fname && fname != "end") {
+                files.push_back(fname);
+            }
+            return new command::Chain(std::string(), files);
+        }
         *Logger::err() << "Command not recognized: '" + command_name + "'\n";
         return nullptr;
     }

@@ -1,0 +1,78 @@
+# ninja log v5
+4272	4312	1747919834395777647	tester	44ca7e573b2798f8
+3519	3941	1747919834021367340	CMakeFiles/tester.dir/src/Scrim.cpp.o	ade9e38094b5491a
+2403	2783	1747919832864405107	CMakeFiles/tester.dir/src/Command/Fill.cpp.o	f5741cd0f4f6c812
+0	14	0	/Users/franciscobettencourt/Desktop/FEUP/1 ANO/Prog/PROG/project/cmake-build-debug/CMakeFiles/cmake.verify_globs	e00c83b2d4a86e12
+3415	3804	1747919833885304147	CMakeFiles/tester.dir/src/Logger.cpp.o	146938901aa77f71
+3531	4041	1747919834121851319	CMakeFiles/tester.dir/src/ScrimParser.cpp.o	9c320ba41d5ba167
+3185	3530	1747919833610320806	CMakeFiles/tester.dir/src/Command/ToGrayScale.cpp.o	4f8c2161b2a613c1
+3489	4201	1747919834281582030	CMakeFiles/tester.dir/src/PNG.cpp.o	176dec1a77612409
+1464	2338	1747919832417442603	CMakeFiles/runscrim.dir/src/PNG.cpp.o	a19403c176afff09
+4	637	1747919830716079261	CMakeFiles/runscrim.dir/src/Command/Crop.cpp.o	d0f1b51aadb90525
+3007	3415	1747919833493789242	CMakeFiles/tester.dir/src/Command/Save.cpp.o	fff5212fa4f6cb
+2205	2574	1747919832651889040	CMakeFiles/tester.dir/src/Command/Blank.cpp.o	990a20f0fc4f1583
+1022	1464	1747919831545105753	CMakeFiles/runscrim.dir/src/Command/Save.cpp.o	9a92744be7c7592a
+2992	3377	1747919833458033692	CMakeFiles/tester.dir/src/Command/RotateRight.cpp.o	9878e6049d62d511
+2783	3191	1747919833272692438	CMakeFiles/tester.dir/src/Command/Replace.cpp.o	210a2f1f3ccde652
+3170	3547	1747919833626959814	CMakeFiles/tester.dir/src/Command/Slide.cpp.o	b6c70fc3efde14dd
+2751	3184	1747919833264577957	CMakeFiles/tester.dir/src/Command/Open.cpp.o	3f4e02c756797e79
+3	654	1747919830734096913	CMakeFiles/runscrim.dir/src/Command/Blank.cpp.o	ddcfffcf6e563a4
+637	1022	1747919831102533224	CMakeFiles/runscrim.dir/src/Command/Fill.cpp.o	4c950aec8fbf7c5c
+2196	2634	1747919832713655638	CMakeFiles/tester.dir/src/Command/Add.cpp.o	5df23a7d6f54b2d3
+1729	2205	1747919832285410087	CMakeFiles/runscrim.dir/src/Utils.cpp.o	617a850ced964dd4
+2326	2751	1747919832832040184	CMakeFiles/tester.dir/src/Command/Crop.cpp.o	4e0f263dbfa2860b
+2784	3151	1747919833229495874	CMakeFiles/tester.dir/src/Command/Resize.cpp.o	f285c035d2f3ad56
+1716	2325	1747919832404996899	CMakeFiles/runscrim.dir/src/ScrimParser.cpp.o	3cf64142c2e1026b
+1359	1729	1747919831810559886	CMakeFiles/runscrim.dir/src/Command/VMirror.cpp.o	69eee443b74c9ced
+3547	3974	1747919834055220824	CMakeFiles/tester.dir/src/Utils.cpp.o	ca6a83fd9ea4883c
+2224	2805	1747919832884807915	CMakeFiles/tester.dir/src/Command/Chain.cpp.o	a4fd9c91b6a9381a
+2338	2403	1747919832484358560	runscrim	5c127da36f514102
+2011	2409	1747919832490108510	CMakeFiles/tester.dir/src/Command.cpp.o	786c13a1a1d2c8a1
+3	649	1747919830727040279	CMakeFiles/runscrim.dir/src/Color.cpp.o	49d593ea9ae7f596
+3377	3815	1747919833896161205	CMakeFiles/tester.dir/src/Image.cpp.o	9d5b07155578223b
+2805	3170	1747919833250288645	CMakeFiles/tester.dir/src/Command/RotateLeft.cpp.o	ef2aed9d8a122324
+1001	1359	1747919831441060561	CMakeFiles/runscrim.dir/src/Command/Resize.cpp.o	26fd215d1d6eeaa4
+3	664	1747919830744583175	CMakeFiles/runscrim.dir/src/Command.cpp.o	c1ed15c09a900117
+1453	1826	1747919831905219206	CMakeFiles/runscrim.dir/src/Logger.cpp.o	54415d79b1497ebc
+810	1174	1747919831254214621	CMakeFiles/runscrim.dir/src/Command/Replace.cpp.o	80bb2f647cd18e98
+1018	1374	1747919831451621907	CMakeFiles/runscrim.dir/src/Command/RotateRight.cpp.o	a71634613e8370bd
+1374	1803	1747919831881385270	CMakeFiles/runscrim.dir/src/Image.cpp.o	460f08197d3a3a86
+649	1001	1747919831079234753	CMakeFiles/runscrim.dir/src/Command/Invert.cpp.o	9fc38209108e54d5
+664	1090	1747919831169279720	CMakeFiles/runscrim.dir/src/Command/Open.cpp.o	89251ababebfb81d
+2410	2783	1747919832863573888	CMakeFiles/tester.dir/src/Command/HMirror.cpp.o	a767169f0a906458
+1527	2011	1747919832092200440	CMakeFiles/runscrim.dir/src/Scrim.cpp.o	cee9b8991548e396
+1826	2195	1747919832273327929	CMakeFiles/tester.dir/src/Color.cpp.o	422dfd42ce81cabb
+3191	3519	1747919833598886490	CMakeFiles/tester.dir/src/Command/VMirror.cpp.o	79a1661c01065aa7
+654	1001	1747919831081041194	CMakeFiles/runscrim.dir/src/Command/Move.cpp.o	f4146fab3ee88ce2
+1174	1527	1747919831608537290	CMakeFiles/runscrim.dir/src/Command/Slide.cpp.o	9f22c6e4389d676c
+1339	1716	1747919831795665734	CMakeFiles/runscrim.dir/src/Command/ToGrayScale.cpp.o	fba5e84eebfd32e3
+1001	1339	1747919831420079412	CMakeFiles/runscrim.dir/src/Command/RotateLeft.cpp.o	59db59a1babf4f9e
+1803	2224	1747919832305597601	CMakeFiles/runscrim.dir/main/RunScrim.cpp.o	b4cda204125cea39
+1090	1453	1747919831533560852	CMakeFiles/runscrim.dir/src/Command/ScaleUp.cpp.o	837ed4da206cc04a
+3804	4272	1747919834352951087	CMakeFiles/tester.dir/main/Tester.cpp.o	56e9a002273c2afb
+3	637	1747919830716086511	CMakeFiles/runscrim.dir/src/Command/Add.cpp.o	3fd649560c348e8b
+2634	2992	1747919833071377226	CMakeFiles/tester.dir/src/Command/Move.cpp.o	2ae1e5d5f2c91474
+638	1018	1747919831097243863	CMakeFiles/runscrim.dir/src/Command/HMirror.cpp.o	cd5371396d23f576
+3151	3489	1747919833569750026	CMakeFiles/tester.dir/src/Command/ScaleUp.cpp.o	952501dbd84fa690
+16	79	1747920399791527053	build.ninja	d5f5587e9d700eef
+0	26	0	clean	ad90e366ad70d77b
+2574	3006	1747919833086840678	CMakeFiles/tester.dir/src/Command/Invert.cpp.o	f99cb6c9d641d486
+3	810	1747919830886826407	CMakeFiles/runscrim.dir/src/Command/Chain.cpp.o	4e6cd72dbe0a17de
+0	16	0	/Users/franciscobettencourt/Desktop/FEUP/1 ANO/Prog/PROG/project/cmake-build-debug/CMakeFiles/cmake.verify_globs	e00c83b2d4a86e12
+10	597	1747920408406871683	CMakeFiles/tester.dir/src/ScrimParser.cpp.o	9c320ba41d5ba167
+10	598	1747920408407645526	CMakeFiles/runscrim.dir/src/ScrimParser.cpp.o	3cf64142c2e1026b
+0	12	0	/Users/franciscobettencourt/Desktop/FEUP/1 ANO/Prog/PROG/project/cmake-build-debug/CMakeFiles/cmake.verify_globs	e00c83b2d4a86e12
+2	563	1747920532337987888	CMakeFiles/runscrim.dir/src/Command/Chain.cpp.o	4e6cd72dbe0a17de
+2	563	1747920532337987929	CMakeFiles/tester.dir/src/Command/Chain.cpp.o	a4fd9c91b6a9381a
+563	670	1747920532445194844	runscrim	5c127da36f514102
+563	670	1747920532445463724	tester	44ca7e573b2798f8
+1	13	0	/Users/franciscobettencourt/Desktop/FEUP/1 ANO/Prog/PROG/project/cmake-build-debug/CMakeFiles/cmake.verify_globs	e00c83b2d4a86e12
+0	15	0	/Users/franciscobettencourt/Desktop/FEUP/1 ANO/Prog/PROG/project/cmake-build-debug/CMakeFiles/cmake.verify_globs	e00c83b2d4a86e12
+2	702	1747921096944495771	CMakeFiles/runscrim.dir/src/ScrimParser.cpp.o	3cf64142c2e1026b
+2	703	1747921096947184650	CMakeFiles/tester.dir/src/ScrimParser.cpp.o	9c320ba41d5ba167
+2	717	1747921096961130136	CMakeFiles/runscrim.dir/src/Command/Chain.cpp.o	4e6cd72dbe0a17de
+2	717	1747921096961890649	CMakeFiles/tester.dir/src/Command/Chain.cpp.o	a4fd9c91b6a9381a
+717	777	1747921097022136044	tester	44ca7e573b2798f8
+717	777	1747921097022544926	runscrim	5c127da36f514102
+0	12	0	/Users/franciscobettencourt/Desktop/FEUP/1 ANO/Prog/PROG/project/cmake-build-debug/CMakeFiles/cmake.verify_globs	e00c83b2d4a86e12
+0	12	0	/Users/franciscobettencourt/Desktop/FEUP/1 ANO/Prog/PROG/project/cmake-build-debug/CMakeFiles/cmake.verify_globs	e00c83b2d4a86e12
