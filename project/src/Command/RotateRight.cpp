@@ -2,22 +2,29 @@
 #include "Image.hpp"
 
 namespace prog {
-  namespace command{
+  namespace command {
+
     RotateRight::RotateRight() : Command("rotate_right") {}
 
     Image* RotateRight::apply(Image* img) {
-        if (!img) return nullptr;
-        int origW = img->width();
-        int origH = img->height();
-        Image* newImg = new Image(origH, origW);
+      if (!img) return nullptr;
 
-        for (int y = 0; y < origH; ++y) {
-            for (int x = 0; x < origW; ++x) {
-                newImg->at(y, origW - 1 - x) = img->at(x, y);
-            }
+      int w = img->width();   // original image width
+      int h = img->height();  // original image height
+
+      // After rotation: width and height swap
+      Image* newImg = new Image(h, w);
+
+      for (int y = 0; y < h; ++y) {
+        for (int x = 0; x < w; ++x) {
+          // 90° clockwise
+          // (x, y) → (newX = h - 1 - y, newY = x)
+          newImg->at(h - 1 - y, x) = img->at(x, y);
         }
-        delete img;
-        return newImg;
+      }
+
+      return newImg;
     }
-}
-}
+
+  } // namespace command
+} // namespace prog
