@@ -76,3 +76,22 @@
 717	777	1747921097022544926	runscrim	5c127da36f514102
 0	12	0	/Users/franciscobettencourt/Desktop/FEUP/1 ANO/Prog/PROG/project/cmake-build-debug/CMakeFiles/cmake.verify_globs	e00c83b2d4a86e12
 0	12	0	/Users/franciscobettencourt/Desktop/FEUP/1 ANO/Prog/PROG/project/cmake-build-debug/CMakeFiles/cmake.verify_globs	e00c83b2d4a86e12
+0	19	0	/Users/franciscobettencourt/Desktop/FEUP/1 ANO/Prog/PROG/project/cmake-build-debug/CMakeFiles/cmake.verify_globs	e00c83b2d4a86e12
+3	631	1747930638799242097	CMakeFiles/tester.dir/src/Command/Fill.cpp.o	f5741cd0f4f6c812
+2	645	1747930638816405078	CMakeFiles/tester.dir/src/Color.cpp.o	422dfd42ce81cabb
+4	648	1747930638821520389	CMakeFiles/tester.dir/src/Command/HMirror.cpp.o	a767169f0a906458
+3	662	1747930638834380686	CMakeFiles/tester.dir/src/Command/Add.cpp.o	5df23a7d6f54b2d3
+3	675	1747930638848231613	CMakeFiles/tester.dir/src/Command/Crop.cpp.o	4e0f263dbfa2860b
+3	941	1747930639110069210	CMakeFiles/tester.dir/src/Command/Chain.cpp.o	a4fd9c91b6a9381a
+645	991	1747930639163668909	CMakeFiles/tester.dir/src/Command/Move.cpp.o	2ae1e5d5f2c91474
+648	997	1747930639169866682	CMakeFiles/tester.dir/src/Command/Replace.cpp.o	210a2f1f3ccde652
+631	1009	1747930639182521062	CMakeFiles/tester.dir/src/Command/Invert.cpp.o	f99cb6c9d641d486
+675	1027	1747930639199960086	CMakeFiles/tester.dir/src/Command/RotateLeft.cpp.o	ef2aed9d8a122324
+662	1032	1747930639205280355	CMakeFiles/tester.dir/src/Command/Resize.cpp.o	f285c035d2f3ad56
+941	1285	1747930639455506202	CMakeFiles/tester.dir/src/Command/RotateRight.cpp.o	9878e6049d62d511
+997	1331	1747930639504633093	CMakeFiles/tester.dir/src/Command/Slide.cpp.o	b6c70fc3efde14dd
+991	1340	1747930639513317875	CMakeFiles/tester.dir/src/Command/ScaleUp.cpp.o	952501dbd84fa690
+1009	1349	1747930639523229204	CMakeFiles/tester.dir/src/Command/ToGrayScale.cpp.o	4f8c2161b2a613c1
+1027	1351	1747930639525878505	CMakeFiles/tester.dir/src/Command/VMirror.cpp.o	79a1661c01065aa7
+1032	1530	1747930639701217949	CMakeFiles/tester.dir/src/ScrimParser.cpp.o	9c320ba41d5ba167
+1530	1629	1747930639802782701	tester	44ca7e573b2798f8

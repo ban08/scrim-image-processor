@@ -26,5 +26,5 @@ namespace prog {
       return newImg;
     }
 
-  } // namespace command
-} // namespace prog
+  }
+}
