@@ -1,5 +1,0 @@
-/Users/rodrigotsou/Desktop/faculdade/prog3/PROG/project/build/CMakeFiles/runscrim.dir
-/Users/rodrigotsou/Desktop/faculdade/prog3/PROG/project/build/CMakeFiles/tester.dir
-/Users/rodrigotsou/Desktop/faculdade/prog3/PROG/project/build/CMakeFiles/delivery.dir
-/Users/rodrigotsou/Desktop/faculdade/prog3/PROG/project/build/CMakeFiles/edit_cache.dir
-/Users/rodrigotsou/Desktop/faculdade/prog3/PROG/project/build/CMakeFiles/rebuild_cache.dir

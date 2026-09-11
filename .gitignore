@@ -1,0 +1,12 @@
+# build output
+build/
+cmake-build-*/
+clean/
+project/build/
+project/cmake-build-*/
+project/clean/
+project/output/
+# editor
+.idea/
+.vscode/
+*.o

@@ -1,5 +1,0 @@
-/Users/franciscobettencourt/Desktop/FEUP/1 ANO/Prog/PROG/project/cmake-build-debug/CMakeFiles/runscrim.dir
-/Users/franciscobettencourt/Desktop/FEUP/1 ANO/Prog/PROG/project/cmake-build-debug/CMakeFiles/tester.dir
-/Users/franciscobettencourt/Desktop/FEUP/1 ANO/Prog/PROG/project/cmake-build-debug/CMakeFiles/delivery.dir
-/Users/franciscobettencourt/Desktop/FEUP/1 ANO/Prog/PROG/project/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/franciscobettencourt/Desktop/FEUP/1 ANO/Prog/PROG/project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
